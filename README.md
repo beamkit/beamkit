@@ -1,2 +1,2 @@
 # beamkit
-Shared lens resources
+Work in progress
